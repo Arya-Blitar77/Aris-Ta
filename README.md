@@ -1,16 +1,16 @@
-#encript/kunci script
+Encript/kunci script
 
 ```
 Tak ada enc yg aman sekedar aja dari pada unlock
 
 ```
-#Info
+Info
 
 ```
 msih lebih bagus klu di lock
 ```
 
-#perintah
+Perintah
 
 ```
 $ apt update && apt upgrade
